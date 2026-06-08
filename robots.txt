@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lottolove5131-lang.github.io/blog/sitemap.xml
